@@ -1,3 +1,6 @@
 h1 {
     color: hotpink;
+    outline-color: green;
+    outline-width: 5px;
+    /* why didn't the outline work wut */
 }
