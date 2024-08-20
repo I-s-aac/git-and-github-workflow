@@ -4,3 +4,7 @@ h1 {
     outline-width: 5px;
     /* why didn't the outline work wut */
 }
+
+.a-class {
+    color: lightgray;
+}
